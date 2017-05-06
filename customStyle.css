@@ -1,0 +1,24 @@
+.customDiv{
+
+    margin:3px;
+    min-height:300px;
+    background-color:silver;
+    text-allign:center;
+    font-size: large;
+
+
+}
+
+.breadcrumb>li+li:before {
+
+    content: "|";
+}
+.breadcrumb {
+
+    background-color: #f9f9f9;
+
+}
+
+body{
+    margin:10px ;
+}
